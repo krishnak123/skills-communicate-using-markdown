@@ -8,3 +8,6 @@
 ```bash
 git clone https://github.com/skills/communicate-using-markdown
 ```
+```java
+int a=10;
+```
